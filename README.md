@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Wesllen Borges 😁
+## Bem-vindo(a) ao perfil do Dev Wesllen Borges 👨🏻‍💻
 
  <div>
    <a href="https://github.com/devwesllenborges">
